@@ -1,0 +1,14 @@
+.bgc{
+    background-image: url('img/grid2.svg');
+}
+form{
+    /* padding-top: 20rem; */
+    margin-top: 15rem;
+}
+label   {
+    color: white;
+}
+
+ body{
+     background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/45e6f443-8eff-4c7b-ba24-fbdc84c37718/6a6dbcd9-9bbc-423e-a84d-7e39fb76d701/IN-en-20210927-popsignuptwoweeks-perspective_alpha_website_large.jpg');
+ }
